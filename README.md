@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattiaTuri
 - 👀 I’m interested in programming and writing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a front-edn developer and i'm currently studying JavaScript 
 - 📫 How to reach me turina.mattia@gmail.com
 
 <!---
