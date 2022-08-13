@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattiaTuri
+- 👋 Hi, I’m @MattiaTurina
 - 👀 I’m interested in programming and writing
 - 🌱 I’m a front-end developer and i'm currently studying React 
 - 📫 How to reach me turina.mattia@gmail.com
